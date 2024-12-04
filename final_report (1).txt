@@ -1,0 +1,20 @@
+
+Campaign Performance Summary:
+
+1. Audience Segmentation Analysis:
+-The 30-34 age group had the lowest cost per conversion (29.77) and the highest conversions (494), making it the most cost-effective target for ad campaigns.
+-Females generated more clicks (23,878) but had a higher cost per conversion (68.48), suggesting the need for refined targeting to improve conversion efficiency.
+-Interest category 31 (likely Technology or Gaming) was the most responsive, with the lowest cost per conversion (18.69), highlighting a high potential audience for targeted campaigns.
+
+2. Campaign Performance Evaluation:
+-Campaign 936 performed well with the highest number of conversions (183) and a relatively moderate cost per conversion (15.81), along with a higher CTR of 2.44%.
+-Campaign 1178, despite having the highest number of impressions and clicks, showed a high cost per conversion (62.49), indicating inefficient conversion despite substantial engagement.
+-Campaign 916, with the lowest cost per conversion (6.24), achieved a modest number of conversions (24), suggesting it was the most cost-effective in terms of conversion efficiency.
+
+3. **ROI Analysis:**
+-Campaign 916 stands out with an exceptionally high ROI of 7915.50%, generating a revenue of 12,000 against a modest spend of 149.71, indicating it was the most profitable and efficient campaign in terms of return.
+-Campaign 936, while generating a high revenue of 91,500, has a significantly lower ROI of 3062.40%, suggesting it was a solid performer, but not as efficient as Campaign 916.
+-Campaign 1178 had the highest revenue of 436,000, but its ROI was the lowest at 700.19%, indicating that despite the high revenue, the campaign was less efficient in generating returns relative to its investment.
+
+In conclusion, Campaign 916 provided the best efficiency in ROI, while Campaign 936 showed strong returns, and Campaign 1178, though revenue-heavy, was less efficient in terms of return on investment.
+
