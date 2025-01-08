@@ -49,15 +49,17 @@ Summary statistics for initial insights.
 ## Audience Segmentation Analysis
 
 - Main Insight 1: The 30-34 age group had the lowest cost per conversion (29.77) and the Highest Approved conversions (494), making it the most cost-effective target for future campaigns.
+
 ![image](https://github.com/user-attachments/assets/170d08bc-c26e-43a6-af55-8939b3fd4521)
 
 - Main Insight 2: Females generated more clicks (23,878) but had a higher cost per conversion (68.48), suggesting the need for refined targeting strategies.
+
 ![image](https://github.com/user-attachments/assets/4bfcc0ec-4f47-4fae-a000-3bb7c06c84cf)
 
 - Main Insight 3: Interest category 31 (likely Technology or Gaming) had the lowest cost per conversion (18.69), highlighting it as a highly responsive audience.
-![image](https://github.com/user-attachments/assets/a925957d-779d-44f9-9d55-ffb94fdb4297)
 
-[Placeholder for visualization: Audience segmentation trends]
+![image](https://github.com/user-attachments/assets/c0371ced-e993-4023-aa68-d6ebf3ae8e85)
+
 ![image](https://github.com/user-attachments/assets/1206020c-1d0c-4408-8f89-866079a5cc76)
 ![image](https://github.com/user-attachments/assets/740008d1-97a7-47b7-9df0-c56165cb8604)
 ![image](https://github.com/user-attachments/assets/c8ed7f8b-6d02-4128-89b4-e9c928421cf9)
@@ -65,27 +67,24 @@ Summary statistics for initial insights.
 ## Campaign Performance Evaluation
 
 - Main Insight 1: Campaign 936 had the highest conversions (183) and a moderate cost per conversion (15.81), making it a strong performer.
-![image](https://github.com/user-attachments/assets/d0e98285-d444-41b9-841d-6efa7a30eb95)
 
 - Main Insight 2: Campaign 1178 had the highest impressions and clicks but showed inefficiency with a high cost per conversion (62.49).
 
 - Main Insight 3: Campaign 916 achieved the lowest cost per conversion (6.24) and provided a good balance of cost-efficiency and performance.
 
+![image](https://github.com/user-attachments/assets/d0e98285-d444-41b9-841d-6efa7a30eb95)
 ![image](https://github.com/user-attachments/assets/24f0e193-0dbc-4220-80cd-a79dd76d6669)
 ![image](https://github.com/user-attachments/assets/c47278a4-6c68-4202-a78d-4688ef65069b)
-
-[Placeholder for visualization: Campaign performance comparison]
 
 ## ROI Analysis
 
 - Main Insight 1: Campaign 916 achieved the highest ROI of 7915.50%, with a revenue of 12,000 against a modest spend of 149.71.
-![image](https://github.com/user-attachments/assets/5889d533-bbfb-4105-85f7-f04bdeae92b0)
 
 - Main Insight 2: Campaign 936 generated substantial revenue (91,500) with a solid ROI of 3062.40%.
 
 - Main Insight 3: Campaign 1178, despite generating the highest revenue (436,000), had the lowest ROI of 700.19%, indicating inefficiency in cost utilization.
 
-[Placeholder for visualization: ROI breakdown]
+![image](https://github.com/user-attachments/assets/5889d533-bbfb-4105-85f7-f04bdeae92b0)
 ![image](https://github.com/user-attachments/assets/09bc4360-bf60-43ba-bb10-1237d2c10759)
 ![image](https://github.com/user-attachments/assets/f526ecb5-f8c4-428e-bff1-56f3c4dc6d4a)
 
